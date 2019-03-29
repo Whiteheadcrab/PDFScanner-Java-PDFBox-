@@ -1,0 +1,1 @@
+This program's main purpose is to find pdf file accroding to the path which user will input and extract text tuped data from it for future work with this data . In case if program won't find required pdf file using inputed file program will inform user about it.
